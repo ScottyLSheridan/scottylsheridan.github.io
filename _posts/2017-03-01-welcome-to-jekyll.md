@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "Scotty Sheridan - Information Technology Management Student"
 layout: post
 ---
 
